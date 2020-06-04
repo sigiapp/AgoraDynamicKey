@@ -1,4 +1,4 @@
-module github.com/bastengao/AgoraDynamicKey
+module github.com/sigiapp/AgoraDynamicKey
 
 go 1.14
 
